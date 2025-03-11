@@ -11,7 +11,7 @@ Projeto é uma simulação de vendas de uma empresa de varejo. Utilizei o MySQL 
 # Etapas
 
 ## Criação Banco de Dados
-Utilizei o MySQL, pois já tenho familiaridade com este DB, onde há 9 tabelas: Data_Venda, Produto, Categoria, Marca, Continente, Qtd_Vendida, Preco_Unitario, Custo_Unitario e Faturamento.
+O Banco utilizado foi o MySQL onde há 9 tabelas: Data_Venda, Produto, Categoria, Marca, Continente, Qtd_Vendida, Preco_Unitario, Custo_Unitario e Faturamento.
 
 ## Análise Exploratória
 A análise foi feita nas seguintes etapas:
